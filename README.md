@@ -2,6 +2,9 @@
 
 Video Demo: https://www.youtube.com/watch?v=eW8r2GgAz5o
 
+*Live Link _(woah)_*: https://geociv.vercel.app
+
+
 **GeoCiv** is an interactive simulation and decision-support platform for exploring how different Kingston community archetypes respond to **spatial developments** and **citywide policy proposals**.
 
 It combines a **deterministic impact engine** with a **multi-agent “town hall” layer** to produce explainable metrics, narratives, and role-play style feedback. The goal is to help policymakers, planners, and students reason about tradeoffs before decisions are made.
